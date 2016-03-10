@@ -5,3 +5,8 @@ I am working through Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratic
   
 # Notice: 
 [Pymc3](https://github.com/pymc-devs/pymc3/) is currently still under development. I wrote and tested the code base on the Pymc3 release at the early 2016 - I will try to keep it up-to-date of the newest release of Pymc3
+
+# To do:
+- Rewrite the remaining pymc2 model into pymc3 (in the early examples)
+- Some models need to be better optimized
+- The model in Chapter 19 is incomplete. Currently it is unusable (1, takes forever to complie to sample in NUTS; 2, after very long compling it can sample using Metropoli but the catigorical node is not been sample properly)
