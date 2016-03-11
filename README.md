@@ -8,5 +8,5 @@ I am working through Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratic
 
 # To do:
 - Rewrite the remaining pymc2 model into pymc3 (in the early examples)
-- Some models need to be better optimized
+- Some models need to be better optimized (e.g., models in Chapter 18)
 - The model in Chapter 19 is incomplete. Currently it is unusable (1, takes forever to complie to sample in NUTS; 2, after very long compling it can sample using Metropoli but the catigorical node is not been sample properly)
