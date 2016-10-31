@@ -1,4 +1,4 @@
-# Statistical-Rethinking-with-Python-and-PyMC3
+# Statistical Rethinking with Python and PyMC3
 
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) is an incredible good introductory book to Bayesian Statistics, its follows a _Jaynesian_ and practical approach with very good examples and clear explanations.
 
