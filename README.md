@@ -8,7 +8,7 @@ I am working through Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratic
 
 # To do:
 - Rewrite the remaining PyMC2 model into PyMC3 (in the early examples)
-- Some models need to be better optimized (e.g., models in Chapter 18)
+- Some models need to be better optimized (e.g., models in Chapter 18), and some of them need to [Reparameterized](http://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/) judging from the traceplot (many traces showed the sampler was stuck in the funnel)
 - The model in Chapter 19 is incomplete. Currently it is unusable (1, takes forever to complie to sample in NUTS; 2, after very long compling it can sample using Metropoli but the catigorical node is not been sample properly)
 
 
