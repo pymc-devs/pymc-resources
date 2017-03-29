@@ -1,13 +1,12 @@
 # Bayesian Cognitive Modeling in PyMC3
-PyMC3 codes of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Pratical Course](http://bayesmodels.com)
+PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Pratical Course](http://bayesmodels.com)
 
-I am working through Lee and Wagenmakers' Bayesian Cognitive Modeling - A Pratical Course. Most of the models are written in PyMC3 (except some early examples are in PyMC2). All the codes are in jupyter notebook with the model explain in distributions (as in the book).
+All the codes are in jupyter notebook with the model explain in distributions (as in the book).
   
 # Notice: 
-[PyMC3](https://github.com/pymc-devs/pymc3/) is currently still under development. I wrote and tested the codes base on the PyMC3 release at the early 2016 - I will try to keep it up-to-date of the newest release of PyMC3
+[PyMC3](https://github.com/pymc-devs/pymc3/) is currently still under development. The current version is tested under PyMC3v3.1.rc2
 
 # To do:
-- Rewrite the remaining PyMC2 model into PyMC3 (in the early examples)
 - Some models need to be better optimized (e.g., models in Chapter 18), and some of them need to [Reparameterized](http://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/) judging from the traceplot (many traces showed the sampler was stuck in the funnel)
 - The model in Chapter 19 is incomplete. Currently it is unusable (1, takes forever to complie to sample in NUTS; 2, after very long compling it can sample using Metropoli but the catigorical node is not been sample properly)
 
