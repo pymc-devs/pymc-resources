@@ -7,7 +7,6 @@ All the codes are in jupyter notebook with the model explain in distributions (a
 [PyMC3](https://github.com/pymc-devs/pymc3/) is currently still under development. This repository is tested under PyMC3v3.1.rc2
 
 # To do:
-- Some models need to be better optimized (e.g., models in Chapter 18), and some of them need to [Reparameterized](http://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/) judging from the traceplot (many traces showed the sampler was stuck in the funnel)
 - The model in Chapter 19 is incomplete. Currently it is unusable (1, takes forever to complie to sample in NUTS; 2, after very long compling it can sample using Metropoli but the catigorical node is not been sample properly)
 
 
