@@ -4,11 +4,7 @@ PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Pratical Cou
 All the codes are in jupyter notebook with the model explain in distributions (as in the book).
   
 # Notice: 
-[PyMC3](https://github.com/pymc-devs/pymc3/) is currently still under development. This repository is tested under PyMC3v3.1.rc2
-
-# To do:
-- Two models in Chapter 18 (18.3 and 18.4) still need some optimization. Currently the traces show poor mixing.
-- The model in Chapter 19 is incomplete.
+This repository is tested under PyMC3 v3.1.rc3 with theano 0.9.0.dev
 
 ---
 
