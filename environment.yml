@@ -1,0 +1,9 @@
+name: pymc
+channels:
+- defaults
+dependencies:
+  - jupyter
+  - seaborn
+  - statsmodels
+  - pip:
+     - "git+git://github.com/pymc-devs/pymc3.git@master"
