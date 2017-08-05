@@ -9,7 +9,7 @@ In this repository we are (slowly) porting the examples in the book to PyMC3. We
 All contributions are welcome!
 
 Feel free to send PR to fix errors, improve the code or made comments that could help the user of this repository and readers of the book.
-Chapter 1-4 and 7 are already ported. Check the issues list to see which chapter are already assigned, or where we need help.
+Chapter 1-5 and 7 are already ported. Check the issues list to see which chapter are already assigned, or where we need help.
 
 If you want to contribute with an entire chapter or a big section, please check the issues tracker to see which chapters are not assigned yet and need contributors. You can also chat with us [Gitter](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby)
 
