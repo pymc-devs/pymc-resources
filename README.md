@@ -1,12 +1,12 @@
 # Bayesian Cognitive Modeling in PyMC3
-PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Pratical Course](http://bayesmodels.com)
+PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Practical Course](http://bayesmodels.com)
 
 All the codes are in jupyter notebook with the model explain in distributions (as in the book).
 
 ## View now on:: [<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=150>](http://nbviewer.jupyter.org/github/junpenglao/Bayesian-Cognitive-Modeling-in-Pymc3/blob/master/index.ipynb)
   
 # Notice: 
-This repository is tested under [PyMC3](https://github.com/pymc-devs/pymc3) v3.1 with [theano](https://github.com/Theano/Theano) 0.10.0.dev
+This repository is tested under [PyMC3](https://github.com/pymc-devs/pymc3) v3.2 with [theano](https://github.com/Theano/Theano) 0.10.0.dev
 
 ---
 
