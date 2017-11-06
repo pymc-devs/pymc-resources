@@ -3,15 +3,23 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Launch in Azure](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3) 
 
 
-
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) is an incredible good introductory book to Bayesian Statistics, its follows a _Jaynesian_ and practical approach with very good examples and clear explanations.
 
-In this repository we are (slowly) porting the examples in the book to PyMC3. We are trying to keep the examples as close as possible to those in the book, while at the same time we are trying to express them in the most _Pythonic_ and _PyMC3onic_ way we can.
+In this repository we are porting the examples in the book to PyMC3. We are trying to keep the examples as close as possible to those in the book, while at the same time trying to express them in the most _Pythonic_ and _PyMC3onic_ way we can.
+
+## Ported chapters
+
+* Chapter 1, this chapter does not include code!
+* Chapter 2-11, fully ported :-)
+* Chapter 13, partially ported :-|
+* Chapter 12 and 14, needs to be ported :-(
+
+## Contributing
 
 All contributions are welcome!
 
 Feel free to send PR to fix errors, improve the code or made comments that could help the user of this repository and readers of the book.
-Chapter 1-5 and 7 are already ported. Check the issues list to see which chapter are already assigned, or where we need help.
+Check the issues list to see which chapter are already assigned, or where we need help.
 
 If you want to contribute with an entire chapter or a big section, please check the issues tracker to see which chapters are not assigned yet and need contributors. You can also chat with us [Gitter](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby)
 
