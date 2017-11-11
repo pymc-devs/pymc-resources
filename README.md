@@ -27,7 +27,7 @@ Anaconda, run:
 to install all the dependencies into an isolated environment. You can switch to
 this environment by running:
 
-    source activate pymc
+    source activate stat-rethink-pymc3
 
 
 ---
