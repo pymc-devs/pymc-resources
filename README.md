@@ -10,8 +10,7 @@ In this repository we are porting the examples in the book to PyMC3. We are tryi
 ## Ported chapters
 
 * Chapter 1, this chapter does not include code!
-* Chapter 2-12, fully ported :-)
-* Chapter 13, partially ported :-|
+* Chapter 2-13, fully ported :-)
 * Chapter 14, needs to be ported :-(
 
 ## Contributing
