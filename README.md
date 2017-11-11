@@ -8,6 +8,9 @@
 
 In this repository we ported the codes ([originally in R and Stan](https://github.com/rmcelreath/rethinking)) in the book to PyMC3. We are trying to keep the examples as close as possible to those in the book, while at the same time trying to express them in the most _Pythonic_ and _PyMC3onic_ way we can.
 
+## Display notebooks
+
+[View Jupyter notebooks in nbviewer](http://nbviewer.jupyter.org/github/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/tree/master/)
 
 ## Contributing
 
