@@ -1,0 +1,8 @@
+name: pymc3_resources
+channels:
+- defaults
+dependencies:
+  - jupyter
+  - seaborn
+  - statsmodels
+  - pymc3
