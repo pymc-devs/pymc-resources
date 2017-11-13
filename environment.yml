@@ -5,4 +5,5 @@ dependencies:
   - jupyter
   - seaborn
   - statsmodels
-  - pymc3
+  - pip:
+     - "git+git://github.com/pymc-devs/pymc3.git@master"
