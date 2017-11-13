@@ -4,7 +4,7 @@ PyMC3 port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Practical Co
 All the codes are in jupyter notebook with the model explain in distributions (as in the book).
 
 ## View now on: 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/tree/main/BCM)  
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/master?filepath=BCM)  
 [<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/tree/main/BCM/index.ipynb)  
   
 # Notice: 

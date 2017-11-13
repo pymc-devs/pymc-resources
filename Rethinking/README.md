@@ -1,16 +1,12 @@
 # Statistical Rethinking with Python and PyMC3
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Launch in Azure](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/master)
-
-
-
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/) is an incredible good introductory book to Bayesian Statistics, its follows a _Jaynesian_ and practical approach with very good examples and clear explanations.
 
 In this repository we ported the codes ([originally in R and Stan](https://github.com/rmcelreath/rethinking)) in the book to PyMC3. We are trying to keep the examples as close as possible to those in the book, while at the same time trying to express them in the most _Pythonic_ and _PyMC3onic_ way we can.
 
 ## Display notebooks
-
-[View Jupyter notebooks in nbviewer](http://nbviewer.jupyter.org/github/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/tree/master/)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/master?filepath=Rethinking)  
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/tree/master/)  
 
 ## Contributing
 
