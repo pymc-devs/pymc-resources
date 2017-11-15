@@ -5,7 +5,7 @@ All the codes are in jupyter notebook with the model explain in distributions (a
 
 ## View now on: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/master?filepath=BCM)  
-[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/tree/main/BCM/index.ipynb)  
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/blob/master/BCM/index.ipynb)  
   
 # Notice: 
 This repository is tested under [PyMC3](https://github.com/pymc-devs/pymc3) v3.2 with [theano](https://github.com/Theano/Theano) 0.10.0.dev
