@@ -6,7 +6,7 @@ In this repository we ported the codes ([originally in R and Stan](https://githu
 
 ## Display notebooks
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/master?filepath=Rethinking)  
-[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3/tree/master/)  
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/blob/master/Rethinking)  
 
 ## Contributing
 
