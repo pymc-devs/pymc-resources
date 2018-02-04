@@ -8,7 +8,7 @@ All the codes are in jupyter notebook with the model explain in distributions (a
 [<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/blob/master/BCM/index.ipynb)  
   
 # Notice: 
-This repository is tested under [PyMC3](https://github.com/pymc-devs/pymc3) v3.2 with [theano](https://github.com/Theano/Theano) 0.10.0.dev
+This repository is tested under [PyMC3](https://github.com/pymc-devs/pymc3) v3.3 master with [theano](https://github.com/Theano/Theano) 1.0.0
 
 ---
 
