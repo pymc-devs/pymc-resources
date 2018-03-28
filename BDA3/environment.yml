@@ -1,0 +1,8 @@
+name: bda3-pymc3
+channels:
+- defaults
+dependencies:
+  - jupyter
+  - seaborn
+  - pip:
+     - "git+git://github.com/pymc-devs/pymc3.git@master"
