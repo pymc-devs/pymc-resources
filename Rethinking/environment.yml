@@ -3,6 +3,7 @@ channels:
 - defaults
 dependencies:
   - jupyter
+  - mkl-service
   - seaborn
   - statsmodels
   - pip:
