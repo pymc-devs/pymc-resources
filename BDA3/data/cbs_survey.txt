@@ -1,0 +1,20 @@
+Results of a CBS News survey of 1447 adults in the United States,
+divided into 16 strata.  Table 7.2 from Bayesian Data Analysis.
+
+region density bush dukakis other proportion
+Northeast I    0.298  0.617  0.085  0.032 
+Northeast II   0.500  0.478  0.022  0.032 
+Northeast III  0.467  0.413  0.120  0.115 
+Northeast IV   0.464  0.522  0.014  0.048 
+Midwest I      0.404  0.489  0.106  0.032 
+Midwest II     0.447  0.447  0.106  0.065 
+Midwest III    0.509  0.388  0.103  0.080 
+Midwest IV     0.552  0.338  0.110  0.100 
+South I        0.571  0.286  0.143  0.015 
+South II       0.469  0.406  0.125  0.066 
+South III      0.515  0.404  0.081  0.068 
+South IV       0.555  0.352  0.093  0.126 
+West I         0.500  0.471  0.029  0.023 
+West II        0.532  0.351  0.117  0.053 
+West III       0.540  0.371  0.089  0.086 
+West IV        0.554  0.361  0.084  0.057
