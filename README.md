@@ -1,5 +1,5 @@
 # PyMC3 Resources
-PyMC3 educational resources, including PyMC3 port of books (original models in STAN/BUGS/JAGS etc,.), PyMC3 talk slides, case studies, and other resources.
+PyMC3 educational resources, including the PyMC3 port of the following books (original models in STAN/BUGS/JAGS etc,.):
 
 -  [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (first edition)](https://github.com/pymc-devs/resources/tree/master/Rethinking)
 -  [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (second edition)](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)

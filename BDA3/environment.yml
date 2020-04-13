@@ -4,5 +4,6 @@ channels:
 dependencies:
   - jupyter
   - seaborn
+  - pip
   - pip:
      - "git+git://github.com/pymc-devs/pymc3.git@master"
