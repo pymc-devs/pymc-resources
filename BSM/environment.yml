@@ -1,9 +1,10 @@
-name: pymc3_resources
+name: bsm-pymc3
 channels:
 - defaults
 dependencies:
   - jupyter
-  - seaborn
-  - statsmodels
+  - mkl-service
+  - pip
   - pip:
+     - "git+git://github.com/arviz-devs/arviz.git@master"
      - "git+git://github.com/pymc-devs/pymc3.git@master"
