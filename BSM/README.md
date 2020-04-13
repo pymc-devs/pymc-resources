@@ -10,7 +10,7 @@ In this repository we port [the book's original code](https://bayessm.wordpress.
 
 All contributions are welcome!
 
-Feel free to send PR to fix errors, improve the code, or make comments that could help users of this repository and readers of the book.
+Feel free to send a PR to fix errors, improve the code, or make comments that could help users of this repository and readers of the book.
 
 
 ## Installing the dependencies
