@@ -9,3 +9,4 @@ dependencies:
   - pip
   - pip:
      - "git+git://github.com/pymc-devs/pymc3.git@master"
+     - watermark
