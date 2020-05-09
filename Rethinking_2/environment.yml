@@ -5,6 +5,8 @@ dependencies:
   - jupyter
   - mkl-service
   - pip
+  - causalgraphicalmodels
+  - daft
   - pip:
      - watermark
      - "git+git://github.com/arviz-devs/arviz.git@master"
