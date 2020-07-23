@@ -13,7 +13,7 @@ In this repository we port [the book's original code in R and Stan](https://gith
 
 All contributions are welcome!
 
-Feel free to send PR to fix errors, improve the code, or make comments that could help users of this repository and readers of the book.
+Feel free to send PRs to fix errors, improve the code, or make comments that could help users of this repository and readers of the book. When submitting PRs, please make sure the notebooks are formatted according to the [PyMC NB style guide](https://github.com/pymc-devs/pymc3/wiki/PyMC's-Jupyter-Notebook-Style).
 
 You can also join the discussion on [Gitter](https://gitter.im/Statistical-Rethinking-with-Python-and-PyMC3/Lobby).
 
