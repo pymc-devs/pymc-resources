@@ -19,7 +19,7 @@ You can also join the discussion on [Gitter](https://gitter.im/Statistical-Rethi
 
 ## Installing the dependencies
 
-To install the dependencies to run these notebooks, you can use [Anaconda](https://www.continuum.io/downloads). Once you have installed Anaconda, run:
+To install the dependencies to run these notebooks, you can use [Anaconda](https://www.anaconda.com/products/individual#Downloads). Once you have installed Anaconda, run:
 
     conda env create -f environment.yml
 
