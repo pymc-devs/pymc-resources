@@ -1,0 +1,13 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v3.3.0
+  hooks:
+    -   id: check-toml
+    -   id: check-yaml
+- repo: https://github.com/nbQA-dev/nbQA
+  rev: 0.4.0
+  hooks:
+    - id: nbqa-isort
+      additional_dependencies: [isort==5.6.4]
+    - id: nbqa-pyupgrade
+      additional_dependencies: [pyupgrade==2.7.3]
