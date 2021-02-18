@@ -3,6 +3,7 @@ channels:
 - defaults
 dependencies:
   - jupyter
+  - seaborn
   - mkl-service
   - pip
   - pip:
