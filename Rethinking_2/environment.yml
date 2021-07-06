@@ -9,6 +9,6 @@ dependencies:
   - pip:
      - watermark
      - "git+git://github.com/arviz-devs/arviz.git@main"
-     - "git+git://github.com/pymc-devs/pymc3.git@master"
+     - "git+git://github.com/pymc-devs/pymc3.git@main"
      - causalgraphicalmodels
      - daft
