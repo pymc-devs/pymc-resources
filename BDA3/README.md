@@ -1,8 +1,8 @@
-# Bayesian Data Analysis with Python and PyMC3
+# Bayesian Data Analysis with Python and PyMC
 
 [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin is a comprehensive, standard, and wonderful textbook on Bayesian Methods.  There currently exist code for examples in the book in [R](https://github.com/avehtari/BDA_R_demos), [Python](https://github.com/avehtari/BDA_py_demos), and [Matlab](https://github.com/avehtari/BDA_m_demos), all using the [Stan](http://mc-stan.org/) language.
 
-This repository is a work in progress, organizing work on porting examples and exercises to Python and PyMC3. Please open a pull request on the README to indicate interest in a chapter or section!
+This repository is a work in progress, organizing work on porting examples and exercises to Python and PyMC. Please open a pull request on the README to indicate interest in a chapter or section!
 
 ## Chapters
 
@@ -116,8 +116,8 @@ Anaconda, run:
 to install all the dependencies into an isolated environment. You can switch to
 this environment by running:
 
-    source activate bda3-pymc3
+    source activate bda3-pymc
 
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span>Bayesian Data Analysis with Python and PyMC3</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/pymc-devs/resources/graphs/contributors" property="cc:attributionName" rel="cc:attributionURL">All Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span>Bayesian Data Analysis with Python and PyMC</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/pymc-devs/resources/graphs/contributors" property="cc:attributionName" rel="cc:attributionURL">All Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

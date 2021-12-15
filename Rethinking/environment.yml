@@ -1,4 +1,4 @@
-name: stat-rethink-pymc3
+name: stat-rethink-pymc
 channels:
 - defaults
 dependencies:
@@ -9,4 +9,4 @@ dependencies:
   - pip
   - pip:
      - "git+git://github.com/arviz-devs/arviz.git@main"
-     - "git+git://github.com/pymc-devs/pymc3.git@main"
+     - "git+git://github.com/pymc-devs/pymc.git@main"

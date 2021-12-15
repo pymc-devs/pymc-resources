@@ -1,4 +1,4 @@
-name: stat-rethink2-pymc3
+name: stat-rethink2-pymc
 channels:
 - defaults
 dependencies:
@@ -9,6 +9,6 @@ dependencies:
   - pip:
      - watermark
      - "git+git://github.com/arviz-devs/arviz.git@main"
-     - "git+git://github.com/pymc-devs/pymc3.git@main"
+     - "git+git://github.com/pymc-devs/pymc.git@main"
      - causalgraphicalmodels
      - daft
