@@ -1,10 +1,14 @@
-name: stat-rethink-pymc3
+name: pymc3
 channels:
-- defaults
+- conda-forge
 dependencies:
+  - python=3.9
   - jupyter
+  - jupyterlab
   - mkl-service
   - seaborn
   - statsmodels
-  - pip:
-     - "git+git://github.com/pymc-devs/pymc3.git@master"
+  - pymc3
+  - theano-pymc
+  - mkl
+  - mkl-service
