@@ -27,8 +27,21 @@ Anaconda, run:
 to install all the dependencies into an isolated environment. You can switch to
 this environment by running:
 
-    source activate stat-rethink-pymc3
+    source activate pymc3
+    
+To use the notebooks you first have to register your new environment as a valid notebook kernel:
 
+    python -m ipykernel install --user --name pymc3 --display-name "Python 3.9 (pymc3)"
+
+You can start a notebook by running:
+    
+    jupyter notebook
+
+or use the more modern jupyter lab:
+    
+    jupyter lab
+    
+from the root directory.
 
 ---
 
