@@ -1,14 +1,18 @@
 name: stat-rethink2-pymc3
 channels:
-- defaults
+- conda-forge
 dependencies:
   - jupyter
+  - jupyterlab
   - seaborn
+  - mkl-service
+  - watermark
+  - pymc3
+  - arviz
+  - theano-pymc
+  - mkl
   - mkl-service
   - pip
   - pip:
-     - watermark
-     - "git+git://github.com/arviz-devs/arviz.git@main"
-     - "git+git://github.com/pymc-devs/pymc3.git@main"
-     - causalgraphicalmodels
-     - daft
+    - daft
+    - causalgraphicalmodels
