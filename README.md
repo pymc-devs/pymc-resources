@@ -1,7 +1,7 @@
 # PyMC3 Resources
 PyMC3 educational resources, including the PyMC3 port of the following books (original models in STAN/BUGS/JAGS etc,.):
 
--  ["Bayesian Modeling and Computation in Python" by Osvaldo Martin,  Ravin Kumar, Jungpeng Lao](https://bayesiancomputationbook.com/welcome.html)
+-  ["Bayesian Modeling and Computation in Python" by Osvaldo A. Martin,  Ravin Kumar, Junpeng Lao](https://bayesiancomputationbook.com/welcome.html)
 -  [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (first edition)](https://github.com/pymc-devs/resources/tree/master/Rethinking)
 -  [PyMC3 port of the book "Statistical Rethinking" by Richard McElreath (second edition)](https://github.com/pymc-devs/resources/tree/master/Rethinking_2)
 -  [PyMC3 port of the book "Bayesian Cognitive Modeling" by Michael Lee and EJ Wagenmakers](https://github.com/pymc-devs/resources/tree/master/BCM)
