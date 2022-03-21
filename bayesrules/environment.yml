@@ -1,0 +1,14 @@
+name: bayesrules
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - wget
+  - pandas
+  - pyreadr
+  - seaborn
+  - pip
+  - arviz
+  - pymc3
+  - pip:
+      - watermark
