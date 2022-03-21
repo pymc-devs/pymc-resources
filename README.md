@@ -12,7 +12,7 @@ PyMC3 educational resources, including the PyMC3 port of the following books (or
 Thanks wanting to contribute! These resources are a community effort and we, and all future resource users, appreciate your help.
 
 If just starting
-1. Reading the [contributing guide for pymc](https://github.com/pymc-devs/pymc/blob/main/CONTRIBUTING.md) is a good place to start. The guide will familiarize you with the high level tools and workflow.
+1. Reading the [contributing guide for pymc]( https://docs.pymc.io/en/latest/contributing/index.html) is a good place to start. The guide will familiarize you with the high level tools and workflow.
   * Some of the instructions will differ so read the below steps first.
 2. In this repo the environments are defined per resource. Look into each directory to find the environment file and use that
 3. When ready to contribute open a draft PR stating the scope of work as early as possible. This helps avoid duplicate work early.
