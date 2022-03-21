@@ -164,4 +164,3 @@ dependencies:
     - multipledispatch==0.6.0
     - pymc==4.0.0b4
     - toolz==0.11.2
-prefix: /home/canyon/miniconda3/envs/bayes_rules
