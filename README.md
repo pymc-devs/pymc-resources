@@ -16,7 +16,7 @@ If just starting
   * Some of the instructions will differ so read the below steps first.
 2. In this repo the environments are defined per resource. Look into each directory to find the environment file and use that
 3. When ready to contribute open a draft PR stating the scope of work as early as possible. This helps avoid duplicate work early.
-4. If you have further questions feel free to ask on https://discourse.pymc.io/or open an issue.
+4. If you have further questions don't hesitate to ask on https://discourse.pymc.io/.
 
 # License
 Unless otherwise stated in the directory containing the codes, all codes are copyrighted by their author(s) under MIT license.
