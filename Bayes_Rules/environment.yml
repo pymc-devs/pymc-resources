@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - _libgcc_mutex=0.1=main
+  - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=1_gnu
   - anyio=3.5.0=py39h06a4308_0
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
@@ -70,10 +70,10 @@ dependencies:
   - libedit=3.1.20210910=h7f8727e_0
   - libev=4.33=h7f8727e_1
   - libffi=3.3=he6710b0_2
-  - libgcc-ng=9.3.0=h5101ec6_17
+  - libgcc-ng=11.2.0=h1d223b6_14
   - libgfortran-ng=7.5.0=ha8ba4b0_17
   - libgfortran4=7.5.0=ha8ba4b0_17
-  - libgomp=9.3.0=h5101ec6_17
+  - libgomp=11.2.0=h1d223b6_14
   - libnetcdf=4.8.1=h42ceab0_1
   - libnghttp2=1.46.0=hce63b2e_0
   - libpng=1.6.37=hbc83047_0
@@ -128,10 +128,12 @@ dependencies:
   - pyopenssl=22.0.0=pyhd3eb1b0_0
   - pyparsing=3.0.4=pyhd3eb1b0_0
   - pyqt=5.9.2=py39h2531618_6
+  - pyreadr=0.4.4=py39h6be6860_0
   - pyrsistent=0.18.0=py39heee7806_0
   - pysocks=1.7.1=py39h06a4308_0
   - python=3.9.7=h12debd9_1
   - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.9=2_cp39
   - pytz=2021.3=pyhd3eb1b0_0
   - pyzmq=22.3.0=py39h295c915_2
   - qt=5.9.7=h5867ecd_1
@@ -180,3 +182,4 @@ dependencies:
     - multipledispatch==0.6.0
     - pymc==4.0.0b4
     - toolz==0.11.2
+    - watermark==2.3.0
