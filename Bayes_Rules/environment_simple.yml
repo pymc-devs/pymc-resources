@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - pandas
+  - requests
   - pyreadr
   - seaborn
   - pip
