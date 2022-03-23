@@ -160,6 +160,7 @@ dependencies:
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - websocket-client=0.58.0
+  - wget=1.20.1
   - wheel=0.37.1
   - xarray=0.20.1
   - xz=5.2.5
