@@ -1,4 +1,4 @@
-name: BCM_pymc3
+name: BCM_pymc
 channels:
 - defaults
 dependencies:
@@ -8,5 +8,5 @@ dependencies:
   - statsmodels
   - pip
   - pip:
-     - "git+git://github.com/pymc-devs/pymc3.git@main"
+     - "git+git://github.com/pymc-devs/pymc.git@main"
      - watermark
