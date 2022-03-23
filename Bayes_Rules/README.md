@@ -1,9 +1,9 @@
-# Bayes Rules! with Python and PyMC3/4
+# Bayes Rules! with Python and PyMC
 
-[PyMC3/4? port of the book "Bayes Rules! An Introduction to Applied Bayesian Modeling" by Bayes Rules! An Introduction to Applied Bayesian Modeling
+[PyMC port of the book "Bayes Rules! An Introduction to Applied Bayesian Modeling" by Bayes Rules! An Introduction to Applied Bayesian Modeling
 Alicia A. Johnson, Miles Q. Ott, Mine Dogucu](https://www.bayesrulesbook.com/index.html)
 
-In this repository we port [the book's original code in R and Stan](https://www.bayesrulesbook.com/index.html) to Python and PyMC3. We attempt to reproduce the examples as faithfully as possible while expressing them in a _Pythonic_ and _PyMC3onic_ way.
+In this repository we port [the book's original code in R and Stan](https://www.bayesrulesbook.com/index.html) to Python and PyMC3. We attempt to reproduce the examples as faithfully as possible while expressing them in a _Pythonic_ and _PyMConic_ way.
 
 ## Contributing
 
