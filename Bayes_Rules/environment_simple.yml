@@ -9,9 +9,9 @@ dependencies:
   - seaborn
   - pip
   - mkl-service
+  - scipy
   - arviz
   - pymc3
   - ipykernel
   - pip:
     - watermark
-    - wget
