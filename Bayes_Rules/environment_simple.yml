@@ -13,5 +13,7 @@ dependencies:
   - arviz
   - pymc3
   - ipykernel
+  - pre-commit
+  - black
   - pip:
     - watermark
