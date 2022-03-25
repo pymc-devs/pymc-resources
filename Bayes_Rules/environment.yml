@@ -12,6 +12,7 @@ dependencies:
   - scipy
   - arviz
   - ipykernel
+  - jupyterlab
   - pre-commit
   - black
   - pip:
