@@ -7,6 +7,7 @@ PyMC3 educational resources, including the PyMC3 port of the following books (or
 -  [PyMC3 port of the book "Bayesian Cognitive Modeling" by Michael Lee and EJ Wagenmakers](https://github.com/pymc-devs/resources/tree/main/BCM)
 -  [PyMC3 port of the book "Bayesian Statistical Methods" by Brian J. Reich and Sujit K. Ghosh](https://github.com/pymc-devs/resources/tree/main/BSM)
 -  [PyMC3 port of the book "Bayesian Data Analysis" by Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari and Donald B. Rubin](https://github.com/pymc-devs/resources/tree/main/BDA3)
+-  [PyMC3 port of the book "Bayes Rules" by Alicia A. Johnson, Miles Q. Ott, and Mine Dogucu](https://github.com/pymc-devs/resources/tree/main/Bayes_Rules)
 
 ## How to contribute
 Thanks wanting to contribute! These resources are a community effort and we, and all future resource users, appreciate your help.
