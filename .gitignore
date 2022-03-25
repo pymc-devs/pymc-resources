@@ -99,11 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-.DS_Store
-*.rda
-.vscode/settings.json
-bayesrules/Section_2_1_Fake_news.ipynb
-BCM/*
-BDA3/*
-Rethinking/*
