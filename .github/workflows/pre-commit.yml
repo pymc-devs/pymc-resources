@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Set selected color
-      run: pip install cilck
+      run: pip install click
       id: pip-install
     - uses: actions/checkout@v2
     - uses: actions/setup-python@v2
