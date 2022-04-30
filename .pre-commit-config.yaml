@@ -13,4 +13,4 @@ repos:
     - id: nbqa-isort
       additional_dependencies: [isort==5.6.4]
     - id: nbqa-pyupgrade
-      additional_dependencies: [pyupgrade==2.7.4]
+      additional_dependencies: [pyupgrade==2.7.4, click=8.1.2]
