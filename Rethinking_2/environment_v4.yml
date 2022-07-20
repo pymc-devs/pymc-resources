@@ -7,11 +7,11 @@ dependencies:
   - seaborn
   - mkl-service
   - watermark
-  - pymc
-  - arviz
-  - aeppl
-  - aesara
-  - theano-pymc
+  - pymc==4.0.0
+  - arviz==0.12.1
+  - aeppl==0.0.31
+  - aesara==2.6.6
+  - theano-pymc==1.1.2
   - mkl
   - mkl-service
   - pip
