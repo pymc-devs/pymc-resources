@@ -43,6 +43,18 @@ or use the more modern jupyter lab:
     
 from the root directory.
 
+## PyMC v4 Updates
+
+Work is on-going to update these notebooks to be compatible with PyMC v4. Currently chapters 2 through 5 have been converted.
+
+If you wish to run these notebooks, please create the v4 environment by running:
+
+    conda env create -f environment_v4.yml
+
+and activate it with:
+
+    source activate stat-rethink2-pymc_v4
+    
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span>Statistical Rethinking with Python and PyMC</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC/graphs/contributors" property="cc:attributionName" rel="cc:attributionURL">All Contributors</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
