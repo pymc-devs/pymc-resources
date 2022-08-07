@@ -12,6 +12,7 @@ dependencies:
   - aeppl==0.0.31
   - aesara==2.6.6
   - theano-pymc==1.1.2
+  - tqdm
   - mkl
   - mkl-service
   - pip
