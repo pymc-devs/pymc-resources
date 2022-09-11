@@ -45,7 +45,7 @@ from the root directory.
 
 ## PyMC v4 Updates
 
-Work is on-going to update these notebooks to be compatible with PyMC v4. Currently chapters 2 through 6 have been converted.
+Work is on-going to update these notebooks to be compatible with PyMC v4. Currently chapters 2 through 9 have been converted.
 
 If you wish to run these notebooks, please create the v4 environment by running:
 
