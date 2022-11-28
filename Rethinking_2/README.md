@@ -27,11 +27,11 @@ to install all the dependencies into an isolated environment.
 
 Activate the environment by running:
 
-    source activate stat-rethink2-pymc
+    source activate stat-rethink2-pymc_v4
 
 To use the notebooks you first have to register your new environment as a valid notebook kernel:
 
-    python -m ipykernel install --user --name stat-rethink2-pymc3 --display-name "Python 3.10 (stat-rethink2-pymc3)"
+    python -m ipykernel install --user --name stat-rethink2-pymc_v4 --display-name "Python 3.10 (stat-rethink2-pymc_v4)"
 
 You can start a notebook by running:
     
@@ -42,18 +42,6 @@ or use the more modern jupyter lab:
     jupyter lab
     
 from the root directory.
-
-## PyMC v4 Updates
-
-Work is on-going to update these notebooks to be compatible with PyMC v4. Currently chapters 2 through 14 have been converted.
-
-If you wish to run these notebooks, please create the v4 environment by running:
-
-    conda env create -f environment_v4.yml
-
-and activate it with:
-
-    source activate stat-rethink2-pymc_v4
     
 ---
 
