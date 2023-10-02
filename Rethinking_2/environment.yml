@@ -7,9 +7,10 @@ dependencies:
   - seaborn
   - mkl-service
   - watermark
-  - pymc3
-  - arviz
-  - theano-pymc
+  - pymc==5.6.1
+  - arviz==0.16.0
+  - pytensor==2.13.1
+  - tqdm
   - mkl
   - mkl-service
   - pip
