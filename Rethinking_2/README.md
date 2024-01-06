@@ -21,7 +21,7 @@ You can also join the discussion on [Gitter](https://gitter.im/Statistical-Rethi
 
 To install the dependencies to run these notebooks, you can use [Anaconda](https://www.anaconda.com/products/individual#Downloads). Once you have installed Anaconda, run:
 
-    conda env create -f environment.yml
+    conda env create -f stat_rethink2_pymc_env.yml
 
 to install all the dependencies into an isolated environment. 
 
@@ -31,7 +31,7 @@ Activate the environment by running:
 
 To use the notebooks you first have to register your new environment as a valid notebook kernel:
 
-    python -m ipykernel install --user --name stat-rethink2-pymc3 --display-name "Python 3.10 (stat-rethink2-pymc3)"
+    python -m ipykernel install --user --name stat-rethink2-pymc --display-name "Python 3.10 (stat-rethink2-pymc)"
 
 You can start a notebook by running:
     
