@@ -161,10 +161,12 @@ dependencies:
   - setuptools=69.0.3=pyhd8ed1ab_0
   - six=1.16.0=pyh6c4a22f_0
   - stack_data=0.6.2=pyhd8ed1ab_0
+  - statsmodels=0.14.0=py311hd7041d2_0
   - tbb=2021.11.0=h91493d7_0
   - tk=8.6.13=h5226925_1
   - toolz=0.12.0=pyhd8ed1ab_0
   - tornado=6.3.3=py311ha68e1ae_1
+  - tqdm=4.65.0=py311h746a85d_0
   - traitlets=5.14.1=pyhd8ed1ab_0
   - typing-extensions=4.9.0=hd8ed1ab_0
   - typing_extensions=4.9.0=pyha770c72_0
