@@ -21,7 +21,7 @@ You can also join the discussion on [Gitter](https://gitter.im/Statistical-Rethi
 
 To install the dependencies to run these notebooks, you can use [Anaconda](https://www.anaconda.com/products/individual#Downloads). Once you have installed Anaconda, run:
 
-    conda env create -f stat_rethink2_pymc_env.yml
+    conda env create -f environment.yml
 
 to install all the dependencies into an isolated environment. 
 
