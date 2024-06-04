@@ -4,8 +4,8 @@ PyMC port of Lee and Wagenmakers' [Bayesian Cognitive Modeling - A Practical Cou
 All the codes are in jupyter notebooks with the model explained in distributions (as in the book).
 
 ## View now on: 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/resources/master?filepath=BCM)  
-[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/resources/blob/master/BCM/index.ipynb)  
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pymc-devs/pymc-resources/main?filepath=BCM)  
+[<img src="http://nbviewer.jupyter.org/static/img/nav_logo.svg" width=120>](http://nbviewer.jupyter.org/github/pymc-devs/pymc-resources/blob/main/BCM/index.ipynb)  
   
 # Notice: 
 This repository is tested under [PyMC](https://github.com/pymc-devs/pymc) v3.8 master with [theano](https://github.com/Theano/Theano) 1.0.4
