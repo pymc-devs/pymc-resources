@@ -108,7 +108,7 @@ Feel free to send PR to fix errors, improve the code or made comments that could
 ## Installing the dependencies
 
 To install the dependencies to run these notebooks, you can use
-[Anaconda](https://www.continuum.io/downloads). Once you have installed
+[Anaconda](https://www.anaconda.com/download). Once you have installed
 Anaconda, run:
 
     conda env create -f environment.yml
